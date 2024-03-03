@@ -1,0 +1,18 @@
+#button {
+background-color: white;
+font-size: 20px;
+font-family: monospace;
+border-width: 5px;
+border-color: gray;
+}
+p {
+font-color: white;
+font-family: monospace;
+}
+html {
+background-image: url("Night Sky.gif");
+}
+a {
+color: black;
+text-decoration: none;
+}
