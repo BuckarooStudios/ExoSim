@@ -1,0 +1,42 @@
+<head>
+<title>Simulator - ExoSim</title>
+<script>
+window.addEventListener("keydown", checkKeyPressed, false);
+function checkKeyPressed(evt) {
+    if (evt.keyCode == "191") {
+    command = prompt("Run Command.");
+    if (command == "/program 901 run") {
+    command = "The devs say hello."}
+    else if(command == "/program 902 run") {
+    command = "The devs wish you a good day."}
+    else if(command == "/program 999 run") {
+    command = "Meep. A verb, A high-pitched screech."}
+    else if(command == "/program 438 run") {
+    command = "....- ...-- ---..";}
+    else {
+    command = "Error 404";
+  }
+  document.getElementById("terminal").innerHTML = command;
+}
+}
+</script>
+<link rel="icon" href="favicon.png">
+</head>
+<audio src="ExoSim Simulator Music.wav" autoplay loop="true"></audio>
+<button><a href="Menu.html"><img src="ExoSim Logo.gif"></a></button>
+<link rel="stylesheet" href="Simulator.css">
+<br>
+<br>
+<br>
+<select name="forma" onchange="location = this.value;">
+<option>Select an Exoplanet to travel to</option>
+<option value="Kelt-9 System.html">Kelt-9 System</option>
+<option value="Trappist-1 System.html">Trappist-1 System</option>
+<option value="HD-6860 System.html">HD-6860 System</option>
+</select>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p id="terminal">

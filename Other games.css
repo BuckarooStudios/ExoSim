@@ -1,0 +1,23 @@
+button {
+border: none; 
+background: none;
+}
+#version {
+font-color: white;
+font-family: monospace;
+}
+ul {
+color: white;
+font-family: monospace;
+}
+h1 {
+color: white;
+font-family: monospace;
+}
+html {
+background-image: url("Night Sky.gif");
+}
+a {
+color: black;
+text-decoration: none;
+}
