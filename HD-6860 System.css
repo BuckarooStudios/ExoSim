@@ -14,6 +14,13 @@ vertical-align: middle;
 display: inline-block;
 vertical-align: middle; 
 }
+#backbutton {
+  display: inline-block;
+  float: left;
+  clear: left;
+  width: 100px;
+  height: 100px;
+}
 .center {
 display: block;
 margin-left: auto;
