@@ -1,0 +1,32 @@
+h1 {
+color: white;
+font-family: monospace;
+h2 {
+color: white;
+font-family: monospace;
+}
+}
+h2 {
+color: white;
+font-family: monospace;
+text-align: center;
+}
+h3 {
+color: white;
+font-family: monospace;
+}
+button {
+background-color: none;
+}
+p {
+font-color: white;
+font-family: monospace;
+text-align: center;
+}
+html {
+background-image: url("Night Sky.gif");
+}
+a {
+color: white;
+text-decoration: none;
+}
