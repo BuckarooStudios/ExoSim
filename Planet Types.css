@@ -1,27 +1,39 @@
 h1 {
 color: white;
 font-family: monospace;
+text-align: center;
+margin-left: 15%;
+margin-right: 15%;
 h2 {
 color: white;
 font-family: monospace;
-}
+text-align: center;
+margin-left: 15%;
+margin-right: 15%;
 }
 h2 {
 color: white;
 font-family: monospace;
 text-align: center;
+margin-left: 15%;
+margin-right: 15%;
 }
 h3 {
 color: white;
 font-family: monospace;
+text-align: center;
+margin-left: 15%;
+margin-right: 15%;
 }
 button {
-background-color: none;
+background: none;
 }
 p {
 font-color: white;
 font-family: monospace;
 text-align: center;
+margin-left: 15%;
+margin-right: 15%;
 }
 html {
 background-image: url("Night Sky.gif");
