@@ -14,8 +14,10 @@ color: black;
 text-decoration: none;
 }
 select {
-border: 2px
-background
-font-color: white;
-font-family: monospace;
+  font-color: white;
+  background-color: white;
+  font-size: 20px;
+  font-family: monospace;
+  border-width: 5px;
+  border-color: gray;
 }
