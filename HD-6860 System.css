@@ -58,3 +58,7 @@ background
 font-color: white;
 font-family: monospace;
 }
+a {
+color: white;
+text-decoration: none;
+}
