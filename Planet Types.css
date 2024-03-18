@@ -26,9 +26,16 @@ text-align: center;
 margin-left: 15%;
 margin-right: 15%;
 }
-button {
+#exoplanetminiimage {
 background: none;
 border: none;
+padding: 15px;
+margin-left: auto;
+margin-right: auto;
+display: inline-block;
+vertical-align: middle;
+display: inline-block;
+vertical-align: middle; 
 }
 p {
 font-color: white;
