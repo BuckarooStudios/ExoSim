@@ -29,13 +29,9 @@ margin-right: 15%;
 #exoplanetminiimage {
 background: none;
 border: none;
-padding: 15px;
+display: block;
 margin-left: auto;
 margin-right: auto;
-display: inline-block;
-vertical-align: middle;
-display: inline-block;
-vertical-align: middle; 
 }
 p {
 font-color: white;
