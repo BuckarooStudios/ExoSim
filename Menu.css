@@ -17,6 +17,10 @@ p {
 font-color: white;
 font-family: monospace;
 }
+li {
+font-color: white;
+font-family: monospace;
+}
 html {
 background-image: url("Night Sky.gif");
 }
