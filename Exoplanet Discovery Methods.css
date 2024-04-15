@@ -1,0 +1,56 @@
+#backbutton {
+  display: inline-block;
+  float: left;
+  clear: left;
+  width: 100px;
+  height: 100px;
+}
+h1 {
+color: white;
+font-family: monospace;
+text-align: center;
+margin-left: 15%;
+margin-right: 15%;
+}
+h2 {
+color: white;
+font-family: monospace;
+text-align: center;
+margin-left: 15%;
+margin-right: 15%;
+}
+h2 {
+color: white;
+font-family: monospace;
+text-align: center;
+margin-left: 15%;
+margin-right: 15%;
+}
+h3 {
+color: white;
+font-family: monospace;
+text-align: center;
+margin-left: 15%;
+margin-right: 15%;
+}
+#discoveryminiimage {
+background: none;
+border: none;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+p {
+font-color: white;
+font-family: monospace;
+text-align: center;
+margin-left: 15%;
+margin-right: 15%;
+}
+html {
+background-image: url("Night Sky.gif");
+}
+a {
+color: white;
+text-decoration: none;
+}
