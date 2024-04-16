@@ -2,6 +2,8 @@
   display: inline-block;
   float: left;
   clear: left;
+  height: 100px;
+  width: 100px;
 }
 h1 {
 color: white;
