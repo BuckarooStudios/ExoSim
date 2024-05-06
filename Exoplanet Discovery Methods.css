@@ -7,6 +7,12 @@
   background: none;
   border: none;
 }
+h4 {
+font-color: white;
+font-family: monospace;
+display: inline-block;
+vertical-align: middle; 
+}
 h1 {
 color: white;
 font-family: monospace;
