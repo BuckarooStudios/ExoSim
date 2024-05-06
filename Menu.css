@@ -16,6 +16,9 @@ font-family: monospace;
 p {
 font-color: white;
 font-family: monospace;
+text-align: center;
+margin-right: auto;
+margin-left: auto;
 }
 li {
 color: white;
