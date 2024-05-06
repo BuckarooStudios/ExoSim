@@ -55,11 +55,8 @@ margin-left: 15%;
 margin-right: 15%;
 }
 ul {
-font-color: white;
+color: white;
 font-family: monospace;
-text-align: center;
-margin-left: 15%;
-margin-right: 15%;
 }
 html {
 background-image: url("Night Sky.gif");
