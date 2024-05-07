@@ -20,9 +20,7 @@ font-family: monospace;
 p {
 font-color: white;
 font-family: monospace;
-text-align: center;
-margin-right: auto;
-margin-left: auto;
+font-size: 20px;
 }
 li {
 color: white;
@@ -35,11 +33,6 @@ font-family: monospace;
 h2 {
 color: white;
 font-family: monospace;
-}
-p {
-color: white;
-font-family: monospace;
-font-size: 20px;
 }
 html {
 background-image: url("Night Sky.gif");
