@@ -9,6 +9,9 @@ font-family: monospace;
 border-width: 5px;
 border-color: gray;
 }
+#logo {
+background: none;
+}
 #version {
 color: white;
 font-family: monospace;
