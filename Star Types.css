@@ -4,6 +4,8 @@
   clear: left;
   width: 100px;
   height: 100px;
+  background: none;
+  border: none;
 }
 h1 {
 color: white;
@@ -33,7 +35,7 @@ text-align: center;
 margin-left: 15%;
 margin-right: 15%;
 }
-#exoplanetminiimage {
+img {
 background: none;
 border: none;
 display: block;
