@@ -1,37 +1,5 @@
 <head>
 <title>Simulator - ExoSim</title>
-<script>
-window.addEventListener("keydown", checkKeyPressed, false);
-function checkKeyPressed(evt) {
-    if (evt.keyCode == "13") {
-    command = prompt("Run Command.");
-    if (command == "/program 901 run") {
-    command = "The devs say hello."}
-    else if(command == "/program 902 run") {
-    command = "The devs wish you a good day."}
-    else if(command == "/program 999 run") {
-    command = "Meep. A verb, A high-pitched screech."}
-    else if(command == "/program 438 run") {
-    command = "....- ...-- ---..";}
-    else if(command == "/program 001 run") {
-    command = "Beep! Boop! Beep!";}
-    else if(command == "/program ExoSim run") {
-    command = "You silly goose! You're already running ExoSim";}
-    else if(command == "/program 123 run") {
-    command = "abc";}
-    else if(command == "/program rizz run") {
-    command = "You should be McDonalds and I should be Nike, because I'll be doin' it and you'll be lovin' it";}
-    else if(command == "/program 042 run") {
-    command = "The answer to life, the universe, and everything.";}
-    else if(command == "/program 013 run") {
-    command = "Slay all day, boss queen! -Harper";}
-    else {
-    command = "Error 404";
-  }
-  document.getElementById("terminal").innerHTML = command;
-}
-}
-</script>
 <link rel="icon" href="favicon.png">
 </head>
 <audio src="ExoSim Simulator Music.wav" autoplay loop="true"></audio>
@@ -83,4 +51,3 @@ function checkKeyPressed(evt) {
 <br>
 <br>
 <br>
-<p id="terminal">
