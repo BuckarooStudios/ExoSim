@@ -4,6 +4,8 @@
   clear: left;
   width: 100px;
   height: 100px;
+  background: none;
+  border: none;
 }
 h1 {
 color: white;
