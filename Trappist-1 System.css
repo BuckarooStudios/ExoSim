@@ -12,6 +12,14 @@ background: none;
   width: 100px;
   height: 100px;
 }
+
+ padding: 15px;
+ margin-left: auto;
+ margin-right: auto;
+ display: inline-block;
+ vertical-align: middle;
+ display: inline-block;
+ vertical-align: middle; 
 #exoplanet {
 display: block;
 margin: auto;
