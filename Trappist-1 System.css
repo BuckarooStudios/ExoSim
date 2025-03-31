@@ -13,13 +13,9 @@ background: none;
   height: 100px;
 }
 img {
-padding: 15px;
-margin-left: auto;
-margin-right: auto;
-display: inline-block;
-vertical-align: middle;
-display: inline-block;
-vertical-align: middle; 
+display: block;
+margin: auto;
+display: flex;
 }
 ul {
 color: white;
