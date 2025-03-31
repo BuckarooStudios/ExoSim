@@ -6,13 +6,8 @@ border: none;
 background: none;
 }
 img {
-padding: 15px;
-margin-left: auto;
-margin-right: auto;
-display: inline-block;
-vertical-align: middle;
-display: inline-block;
-vertical-align: middle; 
+display: block;
+margin: auto;
 }
 #backbutton {
   display: inline-block;
@@ -20,7 +15,7 @@ vertical-align: middle;
   clear: left;
   width: 100px;
   height: 100px;
-  size: 150%
+  size: 150%;
 }
 ul {
 color: white;
