@@ -22,11 +22,6 @@ vertical-align: middle;
   height: 100px;
   size: 150%
 }
-.center {
-display: block;
-margin-left: auto;
-margin-right: auto;
-}
 ul {
 color: white;
 font-family: monospace;
@@ -46,11 +41,7 @@ vertical-align: middle;
 h1 {
 color: white;
 font-family: monospace;
-}
-#systemtitle {
-color: white;
-font-family: monospace;
-text-align: center;
+text-align: center; 
 }
 h2 {
 color: white;
