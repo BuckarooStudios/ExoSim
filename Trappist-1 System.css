@@ -15,7 +15,6 @@ background: none;
 img {
 display: block;
 margin: auto;
-display: flex;
 }
 ul {
 color: white;
@@ -44,8 +43,7 @@ font-family: monospace;
 text-align: center;
 }
 select {
-border: 2px
-background
+border: 2px;
 font-color: white;
 font-family: monospace;
 }
