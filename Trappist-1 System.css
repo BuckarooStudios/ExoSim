@@ -15,7 +15,8 @@ background: none;
 #exoplanetminiimage {
  margin: 10px;
  display: inline-block;
- vertical-align: baseline;
+ width: 100%;
+ vertical-align: center;
 }
 #exoplanet {
 display: block;
