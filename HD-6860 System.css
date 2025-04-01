@@ -36,7 +36,9 @@ vertical-align: middle;
 h1 {
 color: white;
 font-family: monospace;
-text-align: center; 
+display: block;
+margin-left: 42.67%;
+margin-right: 42.67%;
 }
 h2 {
 color: white;
