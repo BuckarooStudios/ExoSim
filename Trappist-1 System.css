@@ -22,9 +22,11 @@ margin-left: 15%;
 margin-right: 15%;
 }
 #exoplanetminiimage {
- margin-left: 10px;
- margin-right: 10px;
- margin-bottom: 200px;
+padding: 15px;
+margin-left: auto;
+margin-right: auto;
+display: inline-block;
+vertical-align: middle;
 }
 #exoplanet {
 display: block;
