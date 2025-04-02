@@ -10,7 +10,7 @@ display: block;
 margin: auto;
 }
 #backbutton {
- display: inline-block;
+display: inline-block;
 float: left;
 clear: left;
 width: 100px;
@@ -41,7 +41,6 @@ text-align: center;
 margin-left: 15%;
 margin-right: 15%;
 }
-}
 h2 {
 color: white;
 font-family: monospace;
@@ -56,4 +55,9 @@ font-family: monospace;
 a {
 color: white;
 text-decoration: none;
+}
+#exoplanetminiimage {
+margin-left: 15px;
+margin-right: 15px;
+margin-bottom: 525px;
 }
