@@ -6,11 +6,20 @@ border: none;
 background: none;
 }
 #backbutton {
-  display: inline-block;
-  float: left;
-  clear: left;
-  width: 100px;
-  height: 100px;
+display: inline-block;
+float: left;
+clear: left;
+width: 100px;
+height: 100px;
+background: none;
+border: none;
+}
+h1 {
+color: white;
+font-family: monospace;
+text-align: center;
+margin-left: 15%;
+margin-right: 15%;
 }
 #exoplanetminiimage {
  margin-left: 10px;
@@ -36,6 +45,8 @@ h1 {
 color: white;
 font-family: monospace;
 text-align: center;
+margin-left: 15%;
+margin-right: 15%;
 }
 h2 {
 color: white;
