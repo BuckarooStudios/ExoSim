@@ -20,6 +20,7 @@ background: none;
 #exoplanet {
 display: block;
 margin: auto;
+width: 50%;
 }
 ul {
 color: white;
