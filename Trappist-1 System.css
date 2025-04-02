@@ -38,12 +38,12 @@ font-family: monospace;
 display: inline-block;
 vertical-align: middle; 
 }
+div {
+text-align: center;
+}
 h1 {
 color: white;
 font-family: monospace;
-display: block;
-margin: 0 auto;
-text-align: center;
 }
 h2 {
 color: white;
