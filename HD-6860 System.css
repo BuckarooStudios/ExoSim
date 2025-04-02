@@ -10,12 +10,13 @@ display: block;
 margin: auto;
 }
 #backbutton {
-  display: inline-block;
-  float: left;
-  clear: left;
-  width: 100px;
-  height: 100px;
-  size: 150%;
+ display: inline-block;
+float: left;
+clear: left;
+width: 100px;
+height: 100px;
+background: none;
+border: none;
 }
 ul {
 color: white;
@@ -36,9 +37,10 @@ vertical-align: middle;
 h1 {
 color: white;
 font-family: monospace;
-display: block;
-margin: 0 auto;
 text-align: center;
+margin-left: 15%;
+margin-right: 15%;
+}
 }
 h2 {
 color: white;
