@@ -32,37 +32,19 @@ color: white;
 font-family: monospace;
 font-size: 20px;
 }
-h4 {
-font-color: white;
-font-family: monospace;
-display: inline-block;
-vertical-align: middle; 
-}
-div {
-text-align: center;
-}
 h1 {
 color: white;
 font-family: monospace;
+text-align: center;
 }
 h2 {
 color: white;
 font-family: monospace;
 text-align: center;
 }
-select {
-border: 2px;
-font-color: white;
-font-family: monospace;
-}
 a {
 color: white;
 font-family: monospace;
 font-size: 20px;
 text-decoration: none;
-}
-#systemtitle {
-color: white;
-font-family: monospace;
-text-align: center;
 }
