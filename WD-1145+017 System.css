@@ -6,21 +6,25 @@ border: none;
 background: none;
 }
 #backbutton {
-  display: inline-block;
-  float: left;
-  clear: left;
-  width: 100px;
-  height: 100px;
+display: inline-block;
+float: left;
+clear: left;
+width: 100px;
+height: 100px;
+background: none;
+border: none;
 }
-img {
+exoplanetminiimage {
 padding: 15px;
 margin-left: auto;
 margin-right: auto;
 display: inline-block;
 vertical-align: middle;
-display: inline-block;
-vertical-align: middle; 
 } 
+#exoplanet {
+display: block;
+margin: auto;
+}
 ul {
 color: white;
 font-family: monospace;
@@ -40,7 +44,9 @@ vertical-align: middle;
 h1 {
 color: white;
 font-family: monospace;
-text-align: center; 
+text-align: center;
+margin-left: 15%;
+margin-right: 15%;
 }
 h2 {
 color: white;
