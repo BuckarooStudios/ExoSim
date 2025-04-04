@@ -5,6 +5,9 @@ button {
 border: none; 
 background: none;
 }
+b {
+font-weight: 950;
+}
 #backbutton {
 display: inline-block;
 float: left;
