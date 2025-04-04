@@ -5,6 +5,9 @@ button {
 border: none; 
 background: none;
 }
+b {
+font-weight: 950;
+}
 #exoplanet {
 display: block;
 margin: auto;
