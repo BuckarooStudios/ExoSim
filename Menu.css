@@ -4,6 +4,7 @@ font-size: 20px;
 font-family: monospace;
 border-width: 5px;
 border-color: gray;
+font-color: black;
 }
 #logo {
 background: none;
@@ -15,7 +16,7 @@ font-family: monospace;
 }
 p {
 color: white;
-font-family: monospace;
+font-fmily: monospace;
 font-size: 20px;
 }
 li {
