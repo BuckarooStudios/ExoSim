@@ -15,7 +15,8 @@ color: white;
 font-family: monospace;
 }
 #error {
-  size: 35%;
+  width: 30%;
+  height: 30%;
 }
 p {
 color: white;
