@@ -1,11 +1,11 @@
 #backbutton {
-  display: inline-block;
-  float: left;
-  clear: left;
-  height: 100px;
-  width: 100px;
-  background: none;
-  border: none;
+display: inline-block;
+float: left;
+clear: left;
+height: 100px;
+width: 100px;
+background: none;
+border: none;
 }
 h4 {
 font-color: white;
@@ -17,8 +17,10 @@ h1 {
 color: white;
 font-family: monospace;
 text-align: center;
+margin-left: 15%;
+margin-right: 15%;
 }
-.center {
+exoplanetortelescope {
 display: block;
 margin-left: auto;
 margin-right: auto;
