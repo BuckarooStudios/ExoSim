@@ -5,8 +5,8 @@ font-family: monospace;
 border-width: 5px;
 border-color: gray;
 }
-#buttonlink {
-font-color: black;
+#a{
+font-color: white;
 text-decoration: none;
 }
 #logo {
@@ -42,6 +42,6 @@ html {
 background-image: url("Night Sky.gif");
 }
 a {
-color: white;
+color: black;
 text-decoration: none;
 }
