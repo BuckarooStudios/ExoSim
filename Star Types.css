@@ -1,16 +1,18 @@
 #backbutton {
-  display: inline-block;
-  float: left;
-  clear: left;
-  width: 100px;
-  height: 100px;
-  background: none;
-  border: none;
+display: inline-block;
+float: left;
+clear: left;
+width: 100px;
+height: 100px;
+background: none;
+border: none;
 }
 h1 {
 color: white;
 font-family: monospace;
 text-align: center;
+margin-left: 15%;
+margin-right: 15%;
 }
 h2 {
 color: white;
