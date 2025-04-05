@@ -10,3 +10,7 @@ a {
 color: white;
 text-decoration: none;
 }
+button {
+border: none; 
+background: none;
+}
