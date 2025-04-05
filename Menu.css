@@ -5,8 +5,8 @@ font-family: monospace;
 border-width: 5px;
 border-color: gray;
 }
-#a{
-font-color: white;
+a {
+font-color: black;
 text-decoration: none;
 }
 #logo {
@@ -41,7 +41,4 @@ font-family: monospace;
 html {
 background-image: url("Night Sky.gif");
 }
-a {
-color: black;
-text-decoration: none;
-}
+
