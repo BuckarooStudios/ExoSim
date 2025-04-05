@@ -14,3 +14,7 @@ button {
 border: none; 
 background: none;
 }
+h1 {
+color: white;
+font-family: monospace;
+}
