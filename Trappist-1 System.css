@@ -50,6 +50,8 @@ p {
 color: white;
 font-family: monospace;
 font-size: 20px;
+text-align: center;
+line-height: 1.8em;
 }
 h1 {
 color: white;
