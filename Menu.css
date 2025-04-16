@@ -14,10 +14,14 @@ text-decoration: none;
 #logo {
 background: none;
 border: none;
+display: block;
+margin: auto;
 }
 #version {
 color: white;
 font-family: monospace;
+display: block;
+margin: auto;
 }
 #error {
 width: 80%;
