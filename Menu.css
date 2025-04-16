@@ -4,6 +4,8 @@ font-size: 20px;
 font-family: monospace;
 border-width: 5px;
 border-color: gray;
+display: block;
+margin: auto;
 }
 a {
 color: black;
