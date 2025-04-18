@@ -10,20 +10,20 @@ margin: auto;
 a {
 color: black;
 text-decoration: none;
-display: flex;
-justify-content: center;
+display: block;
+margin: auto;
 }
 #logo {
 background: none;
 border: none;
-display: flex;
-justify-content: center;
+display: block;
+margin: auto;
 }
 #version {
 color: white;
 font-family: monospace;
 display: block;
-margin: 0 auto;
+margin: auto;
 }
 #error {
 width: 80%;
