@@ -25,9 +25,9 @@ height: 80%;
 }
 p {
 color: white;
-font-fmily: monospace;
+font-family: monospace;
 font-size: 20px;
-text-align: center;
+margin: 0 auto;
 }
 li {
 color: white;
