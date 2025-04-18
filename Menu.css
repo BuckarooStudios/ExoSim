@@ -19,12 +19,6 @@ border: none;
 display: block;
 margin: auto;
 }
-#version {
-color: white;
-font-family: monospace;
-display: block;
-margin: auto;
-}
 #error {
 width: 80%;
 height: 80%;
@@ -33,6 +27,7 @@ p {
 color: white;
 font-fmily: monospace;
 font-size: 20px;
+text-align: center;
 }
 li {
 color: white;
