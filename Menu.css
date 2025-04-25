@@ -29,6 +29,8 @@ font-family: monospace;
 font-size: 20px;
 text-align: center;
 line-height: 1.8em;
+margin-right: auto;
+margin-left: auto;
 }
 li {
 color: white;
@@ -38,6 +40,8 @@ h1 {
 color: white;
 font-family: monospace;
 text-align: center;
+margin-right: auto;
+margin-left: auto;
 }
 h2 {
 color: white;
