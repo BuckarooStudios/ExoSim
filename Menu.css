@@ -7,6 +7,9 @@ border-color: gray;
 display: block;
 margin: auto;
 }
+h3 {
+font-size: 24px;
+}
 a {
 color: black;
 text-decoration: none;
@@ -22,9 +25,6 @@ margin: auto;
 #error {
 width: 80%;
 height: 80%;
-}
-h3 {
-font-size: 24px;
 }
 p {
 color: white;
