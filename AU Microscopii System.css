@@ -1,0 +1,67 @@
+html {
+background-image: url("Night Sky.gif");
+}
+button {
+border: none; 
+background: none;
+}
+b {
+font-weight: 950;
+}
+#backbutton {
+display: inline-block;
+float: left;
+clear: left;
+width: 100px;
+height: 100px;
+background: none;
+border: none;
+}
+#exoplanetminiimage {
+margin-left: 15px;
+margin-right: 15px;
+margin-bottom: 500px;
+}
+h1 {
+color: white;
+font-family: monospace;
+text-align: center;
+margin-left: 15%;
+margin-right: 15%;
+}
+#exoplanetminiimage {
+padding: 15px;
+margin-left: auto;
+margin-right: auto;
+display: inline-block;
+vertical-align: middle;
+}
+#exoplanet {
+display: block;
+margin-left: 31.7%;
+margin-right: 31.7%;
+}
+ul {
+color: white;
+font-family: monospace;
+font-size: 20px;
+}
+p {
+color: white;
+font-family: monospace;
+font-size: 20px;
+text-align: center;
+line-height: 1.8em;
+}
+h2 {
+color: white;
+font-family: monospace;
+text-align: center;
+font-size: 24px;
+}
+a {
+color: white;
+font-family: monospace;
+font-size: 20px;
+text-decoration: none;
+}
